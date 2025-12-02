@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/SolutionItems/">
+    <File Path="docs/MODERN_CSHARP_FEATURES.md" />
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="OneBrc.Tests/OneBrc.Tests.csproj" />
+  <Project Path="OneBrc/OneBrc.csproj" />
+</Solution>
